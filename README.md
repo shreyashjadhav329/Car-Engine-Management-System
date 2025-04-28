@@ -33,17 +33,8 @@ It demonstrates the use of **Hibernate ORM**, **JDBC**, and **Java SE** to inter
    ```bash
    git clone https://github.com/shreyashjadhav329/Car-Engine-Management-System.git
 
+## 🗄️ Project Structure
 
-Project structure
-Car-Engine-Management-System/
-│
-├── src/
-│   ├── com.example.carmanagement/
-│       ├── Engine.java          // Entity class
-│       ├── EngineDao.java       // Data Access Object
-│       ├── EngineService.java   // Service Layer
-│       └── Main.java            // Runner Class
-│
-├── hibernate.cfg.xml            // Hibernate Configuration
-├── README.md                    // Project Documentation
-└── .gitignore                   // Git Ignore file
+Car-Engine-Management-System/ ├── src/ │ └── com/ │ └── example/ │ └── carmanagement/ │ ├── Engine.java // Entity class │ ├── EngineDao.java // Data Access Object │ ├── EngineService.java // Service Layer │ └── Main.java // Runner Class ├── hibernate.cfg.xml // Hibernate Configuration ├── README.md // Project Documentation └── .gitignore // Git Ignore file
+
+
